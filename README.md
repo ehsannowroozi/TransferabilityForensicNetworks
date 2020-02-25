@@ -1,4 +1,4 @@
-## [On the Transferability of Adversarial Examples against CNN-based Image Forensics]
+## On the Transferability of Adversarial Examples against CNN-based Image Forensics
 (https://ieeexplore.ieee.org/abstract/document/8683772)
 
 2018-2019 Department of Information Engineering and Mathematics, University of Siena, Italy.
@@ -8,9 +8,10 @@ Authors:  Mauro Barni, Kassem Kallas, [Ehsan Nowroozi](https://scholar.google.co
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see <http://www.gnu.org/licenses/>.
 
-If you are using this software, please cite from [IEEE](https://ieeexplore.ieee.org/abstract/document/8683772). Also, you can find this paper in the journal [arXiv](https://arxiv.org/abs/1811.01629).
+If you are using this software, please cite from [IEEE](https://ieeexplore.ieee.org/abstract/document/8683772). Also, you can find this paper in the [arXiv](https://arxiv.org/abs/1811.01629).
 
 Cite: 
+
 @INPROCEEDINGS{8683772,
 author={M. {Barni} and K. {Kallas} and E. {Nowroozi} and B. {Tondi}},
 booktitle={ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
