@@ -1,4 +1,4 @@
-## [On the Transferability of Adversarial Examples against CNN-based Image Forensics]
+## On the Transferability of Adversarial Examples against CNN-based Image Forensics
 (https://ieeexplore.ieee.org/abstract/document/8683772)
 
 2018-2019 Department of Information Engineering and Mathematics, University of Siena, Italy.
